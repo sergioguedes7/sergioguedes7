@@ -11,6 +11,7 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="SQLite3" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 </div><br>
-Apaixonado por tecnologia, movido por café e linhas de código. Sempre a explorar o que o futuro digital nos reserva.
+Apaixonado por tecnologia, movido por café e linhas de código.
+
 
 
